@@ -19,6 +19,8 @@
 * File: Style Css File
 */
 
+@use 'font-awesome' with ($fa-font-path: 'font-awesome');
+
 // Core files
 @import "bootstrap";
 @import "bootstrap/functions";

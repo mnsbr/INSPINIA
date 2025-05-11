@@ -64,4 +64,4 @@ end
 
 gem "dartsass-rails", "~> 0.5.1"
 gem 'bootstrap', '~> 5.3.0'
-gem "font-awesome-rails"
+gem "font-awesome-sass"
